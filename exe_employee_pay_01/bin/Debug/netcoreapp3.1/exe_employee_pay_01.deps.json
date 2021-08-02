@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "exe_employee_pay_01/1.0.0": {
+        "runtime": {
+          "exe_employee_pay_01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exe_employee_pay_01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
